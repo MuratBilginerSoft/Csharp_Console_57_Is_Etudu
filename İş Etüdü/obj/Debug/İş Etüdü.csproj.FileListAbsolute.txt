@@ -1,0 +1,7 @@
+c:\users\mrt_b\source\repos\İş Etüdü\İş Etüdü\bin\Debug\İş Etüdü.exe.config
+c:\users\mrt_b\source\repos\İş Etüdü\İş Etüdü\bin\Debug\İş Etüdü.exe
+c:\users\mrt_b\source\repos\İş Etüdü\İş Etüdü\bin\Debug\İş Etüdü.pdb
+c:\users\mrt_b\source\repos\İş Etüdü\İş Etüdü\obj\Debug\İş Etüdü.csprojResolveAssemblyReference.cache
+c:\users\mrt_b\source\repos\İş Etüdü\İş Etüdü\obj\Debug\İş Etüdü.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\İş Etüdü\İş Etüdü\obj\Debug\İş Etüdü.exe
+c:\users\mrt_b\source\repos\İş Etüdü\İş Etüdü\obj\Debug\İş Etüdü.pdb
